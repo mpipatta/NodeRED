@@ -29,3 +29,20 @@ To view log:
 ```
 node-red-log
 ```
+
+### 3. Remote SSH from Mac OS
+
+Let us first determine the Raspberry Pi's IP address by typing the following command in the terminal of your Raspberry Pi: 
+```
+hostname -I
+```
+
+On your Mac, in the terminal type:
+```
+ssh pi@<your Rapberry PI's IP address without the bracket>
+```
+You will be asked for the Raspberry Pi's password. See below:
+
+
+
+
