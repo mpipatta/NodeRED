@@ -39,7 +39,7 @@ hostname -I
 
 On your Mac, in the terminal type:
 ```
-ssh pi@<your Rapberry PI's IP address without the bracket>
+ssh pi@<RaspberryPI'IP>
 ```
 You will be asked for the Raspberry Pi's password. See below:
 
