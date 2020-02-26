@@ -24,6 +24,8 @@ Download Zip
 
 4. Open balenaEtcher, select the image (or the downloaded Raspbian), select target (SD card) and click Flash.
 
+![balena](https://raw.githubusercontent.com/mpipatta/NodeRED/master/images/balenaEtcher1.png)
+
 ![balena](https://raw.githubusercontent.com/mpipatta/NodeRED/master/images/balenaEtcher.png)
 
 5. Insert the SD card onto your Raspberry Pi. You can now connect the followings to your Raspberry Pi:
