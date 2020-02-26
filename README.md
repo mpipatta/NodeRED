@@ -1,5 +1,5 @@
 In this guide, you will find:
 
-* [How to set up Raspberry Pi](https://raw.githubusercontent.com/mpipatta/NodeRED/master/RaspberryPi_Installation.md)
+* [How to set up Raspberry Pi](https://github.com/mpipatta/NodeRED/blob/master/RaspberryPi_Installation.md)
 
-* [How to install NodeRED on Raspberry Pi](https://raw.githubusercontent.com/mpipatta/NodeRED/master/NodeREDonPI.md)
+* [How to install NodeRED on Raspberry Pi](https://github.com/mpipatta/NodeRED/blob/master/NodeREDonPI.md)
