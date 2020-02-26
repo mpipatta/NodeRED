@@ -36,6 +36,7 @@ Let us first determine the Raspberry Pi's IP address by typing the following com
 ```
 hostname -I
 ```
+![hostname](https://raw.githubusercontent.com/mpipatta/NodeRED/master/images/hostname-I.png)
 
 On your Mac, in the terminal type:
 ```
