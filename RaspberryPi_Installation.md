@@ -33,3 +33,6 @@ Download Zip
 * HDMI monitor
 * USB keyboard
 * USB mouse
+
+
+![RPconnection](https://raw.githubusercontent.com/mpipatta/NodeRED/master/images/RaspberyPiConnection.JPG)
