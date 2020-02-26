@@ -43,6 +43,6 @@ ssh pi@<your Rapberry PI's IP address without the bracket>
 ```
 You will be asked for the Raspberry Pi's password. See below:
 
-
+![SSH](https://raw.githubusercontent.com/mpipatta/NodeRED/master/images/SSHpi.png)
 
 
